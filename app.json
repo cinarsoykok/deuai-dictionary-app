@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "DeuAI",
+    "slug": "deuai",
+    "scheme": "deuai",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/deuai-logo.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#020617"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#020617"
+      },
+      "package": "com.yourname.deuai",
+      "icon": "./assets/deuai-logo.png"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "e4618019-a75b-47f6-bc34-ac6ee08f86f7"
+      }
+    },
+    "owner": "chanarsoykyok",
+    "ios": {
+      "bundleIdentifier": "com.yourname.deuai",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    }
+  }
+}

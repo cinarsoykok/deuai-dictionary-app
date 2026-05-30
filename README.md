@@ -15,9 +15,9 @@ AI-powered German learning mobile application built with React Native, Expo, Typ
 
 ---
 
-## 📱 Screenshots
+## LIVE DEMO
 
-(Add screenshots here later)
+https://deuai-dictionary-2mu66axmt-cinarsoykoks-projects.vercel.app
 
 ---
 
